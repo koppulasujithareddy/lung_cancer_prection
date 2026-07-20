@@ -4,7 +4,7 @@
 This project focuses on the detection and classification of lung cancer using histopathological lung tissue images. By leveraging deep learning and computer vision techniques, the model can classify lung tissue images into different categories, assisting in the early detection of lung cancer.
 
 ## 🎯 Objectives
-- Detect lung cancer from medical images.
+- Detect lung cancer from medical images. 
 - Classify lung tissue into different categories.
 - Improve diagnostic efficiency using Artificial Intelligence.
 - Demonstrate the application of deep learning in healthcare.
